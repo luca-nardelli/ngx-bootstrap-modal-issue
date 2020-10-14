@@ -1,6 +1,6 @@
 # NgxBootstrapModalIssue
 
-Stackblitz: https://stackblitz.com/github/luca-nardelli/ngx-bootstrap-modal-issue
+Stackblitz (does not work): https://stackblitz.com/github/luca-nardelli/ngx-bootstrap-modal-issue
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
